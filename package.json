@@ -1,0 +1,23 @@
+{
+  "name": "@m1yh3m/object.patch.node.lib",
+  "version": "1.0.0",
+  "description": "Patches Object.prototype with functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1yh3m/object.patch.node.lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1yh3m/object.patch.node.lib/issues"
+  },
+  "homepage": "https://github.com/m1yh3m/object.patch.node.lib#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
